@@ -4,7 +4,7 @@
     num * 2
     num += 1
     "Youpi"
-   end
+  end
 
  # 2	Which iterator should you call on an Array to get another Array where all the elements were subject to the same treatment?
  # 3	How do you quickly build an Array of integer from 5 to 25?
