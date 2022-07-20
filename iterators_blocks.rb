@@ -43,12 +43,3 @@ end
  (1..10).sum
  # 10	Is there a way to have the index and the element when you iterate through an Array?
  (1..5).each_with_index { |value, index| puts index }
-
- # 11	How can you get the first item of an Array satisfying a given condition?
- # 12	What is a block? What are the two ways to write one?
- # 13	What is an iterator?
- # 14	In Ruby there are two kinds of iterators, those who return the transformed array, and those who don’t. Can you name iterators from both categories?
- # 15	How would you sort an Array with a given sorting criteria?
- # 16	On ruby-doc.org where can you find Ranges built-in methods?
- # 17	How do you count the number of Array elements matching a condition?
- # 18	What is the simplest way to iterate through the items of an Array?
